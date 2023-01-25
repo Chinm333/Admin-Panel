@@ -20,7 +20,7 @@ function HeadLogin() {
     };
     const navigate = useNavigate();
     const signin = e => {
-        if (message === "speedexpress" && email === "speed@express.com") {
+        if (message === "github" && email === "github@version22.com") {
             navigate("/head-dashboard")
         }
         else {
