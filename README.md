@@ -4,6 +4,9 @@ Before starting run---
 ### `npm i`
 ## Set up firebase and use the config in the firebase.js file to run smoothly
 
+### For official head login credentials:
+#### Email:admin@portal.com
+#### Password:adminportal 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
